@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>
+    Eng.GeorgeBannoura
+  </title>
+  <style>
+  h1{
+    color:violet;
+    font-size: 40px;
+    font-family:arial;
+  }
+  h3{
+    font-family: sans-serif;
+    color:green;
+  }
+  .red-back{
+    background-color: red;
+  }
+  .violet-back{
+    background-color: violet;
+  }
+
+
+  </style>
+  </head>
+  <body>
+    <h1 style = "color:brown; font-family:Georgia;"> About Eng.George Bannoura</h1>
+    <p  style="color:blue;">
+      My name is George Bannoura, Student at Al-Quds university, Lives in <strong>Bethlehem, HolyLand</strong>.
+     </p>
+     <hr/>
+     <div class ="violet-back">
+  <h3>MY Courses</h3>
+     <ul>
+       <li>
+         Data Communication
+         </li>
+         <li>
+           Data Communication Laboratory
+           </li>
+           <li>
+             DataBase
+           </li>
+           <li>
+             MicroProcessors Laboratory
+             </li>
+             <li>
+               Operating Systems
+               </li>
+               <li>
+                 Operating Systems Laboratory
+                 </li>
+                 <li>
+                   Building Web Applications
+                   </li>
+       </ul>
+<h3>My Movies and Series</h3>
+<ol>
+  <li>
+    Riverdale(Series) <a href ="https://www.imdb.com/title/tt5420376/">(IMDB)</a>
+    </li>
+    <li>
+      13 Reasons Why(Series) <a href = "https://www.imdb.com/title/tt1837492/?ref_=nv_sr_1?ref_=nv_sr_1">IMDB</a>
+      </li>
+      <li>
+        The Book of Daniel(2013) <a href = "https://www.imdb.com/title/tt3120944/?ref_=tt_sims_tt">IMDB</a>
+        </li>
+  </ol>
+<h3>My Moods</h3>
+</div>
+
+<div class="red-back">
+  <p>
+
+    <img src="https://lh3.googleusercontent.com/u3FYYEZl68vRELJUagVWYak7zJET2Emh570rQxReVv0VOd6zm7PPaHxOFTDyN125Op1SPaD6A7oKkqZG6W9_=s750" alt="HappyMe" height="200" width="200" style="float:left">
+Happy
+    <img src="https://media1.tenor.com/images/74bd0c50b0ac5586bd3cc0908910e1ea/tenor.gif?itemid=14555788" alt="SadMe" height="200" width="200">
+    Sad
+</p>
+</div>
+
+<h3>Fun facts about my neighbors</h3>
+<ul>
+  <li>
+    They play too much music
+  </li>
+  <li>
+    So noisy
+  </li>
+</ul>
+
+    </body>
+
+
+</html>
